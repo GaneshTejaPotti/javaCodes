@@ -6,3 +6,5 @@ Day2 : removeDuplicates, removeDuplicates2, findAllNumbersDisappeared, intersect
 Day3: runningSumOfArray, removeElement, thirdMaxNumber, validMountainArray, buildArrayFromPermutation
 
 Day5: Reverse Linked List, Remove Linked List Elements, Remove Duplicates from Sorted List, Merge Two Sorted Lists, Middle of the Linked List, Palindrome Linked List
+
+Day6: Intersection of Two Linked Lists, Linked List Cycle, Valid Parentheses, Implement Queue using Stacks, Backspace String Compare, Next Greater Element I
