@@ -8,3 +8,5 @@ Day3: runningSumOfArray, removeElement, thirdMaxNumber, validMountainArray, buil
 Day5: Reverse Linked List, Remove Linked List Elements, Remove Duplicates from Sorted List, Merge Two Sorted Lists, Middle of the Linked List, Palindrome Linked List
 
 Day6: Intersection of Two Linked Lists, Linked List Cycle, Valid Parentheses, Implement Queue using Stacks, Backspace String Compare, Next Greater Element I
+
+Day7: Binary Tree Preorder Traversal, Binary Tree Inorder Traversal, Binary Tree Postorder Traversal, Maximum Depth of Binary Tree, Invert Binary Tree, Symmetric Tree
