@@ -10,3 +10,5 @@ Day5: Reverse Linked List, Remove Linked List Elements, Remove Duplicates from S
 Day6: Intersection of Two Linked Lists, Linked List Cycle, Valid Parentheses, Implement Queue using Stacks, Backspace String Compare, Next Greater Element I
 
 Day7: Binary Tree Preorder Traversal, Binary Tree Inorder Traversal, Binary Tree Postorder Traversal, Maximum Depth of Binary Tree, Invert Binary Tree, Symmetric Tree
+
+Day8: Subtree of Another Tree, Diameter of Binary Tree, Balanced Binary Tree, Merge Two Binary Trees, Same Tree
