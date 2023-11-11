@@ -12,3 +12,5 @@ Day6: Intersection of Two Linked Lists, Linked List Cycle, Valid Parentheses, Im
 Day7: Binary Tree Preorder Traversal, Binary Tree Inorder Traversal, Binary Tree Postorder Traversal, Maximum Depth of Binary Tree, Invert Binary Tree, Symmetric Tree
 
 Day8: Subtree of Another Tree, Diameter of Binary Tree, Balanced Binary Tree, Merge Two Binary Trees, Same Tree
+
+Day10: Valid Palindrome, Longest Palindrome, Longest Common Prefix, Valid Anagram, First Unique Character in a String
