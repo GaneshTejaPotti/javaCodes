@@ -14,3 +14,7 @@ Day7: Binary Tree Preorder Traversal, Binary Tree Inorder Traversal, Binary Tree
 Day8: Subtree of Another Tree, Diameter of Binary Tree, Balanced Binary Tree, Merge Two Binary Trees, Same Tree
 
 Day10: Valid Palindrome, Longest Palindrome, Longest Common Prefix, Valid Anagram, First Unique Character in a String
+
+Day11: Is Subsequence, Reverse String, Reverse String II, Reverse Words in a String III, Isomorphic Strings, Remove All Adjacent Duplicates In String
+
+Day12: Defanging an IP Address, Reverse Only Letters, Reverse Vowels of a String, Length of Last Word, Add Strings, Fizz Buzz
