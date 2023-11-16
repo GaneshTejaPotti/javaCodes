@@ -18,3 +18,5 @@ Day10: Valid Palindrome, Longest Palindrome, Longest Common Prefix, Valid Anagra
 Day11: Is Subsequence, Reverse String, Reverse String II, Reverse Words in a String III, Isomorphic Strings, Remove All Adjacent Duplicates In String
 
 Day12: Defanging an IP Address, Reverse Only Letters, Reverse Vowels of a String, Length of Last Word, Add Strings, Fizz Buzz
+
+day13: Roman to Integer, Palindrome Number, Happy Number, Power of Two, Sqrt(x), Plus One
