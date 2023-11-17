@@ -20,3 +20,5 @@ Day11: Is Subsequence, Reverse String, Reverse String II, Reverse Words in a Str
 Day12: Defanging an IP Address, Reverse Only Letters, Reverse Vowels of a String, Length of Last Word, Add Strings, Fizz Buzz
 
 day13: Roman to Integer, Palindrome Number, Happy Number, Power of Two, Sqrt(x), Plus One
+
+day14: Count Odd Numbers in an Interval Range, Rectangle Overlap, Add Digits Maximum Product of Three Numbers, Excel Sheet Column Number
