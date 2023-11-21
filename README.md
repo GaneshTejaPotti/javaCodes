@@ -22,3 +22,5 @@ Day12: Defanging an IP Address, Reverse Only Letters, Reverse Vowels of a String
 day13: Roman to Integer, Palindrome Number, Happy Number, Power of Two, Sqrt(x), Plus One
 
 day14: Count Odd Numbers in an Interval Range, Rectangle Overlap, Add Digits Maximum Product of Three Numbers, Excel Sheet Column Number
+
+day16: Binary Search, Search Insert Position, First Bad Version, Valid Perfect Square, Kth Missing Positive Number, Kth Largest Element in a Array
