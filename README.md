@@ -24,3 +24,5 @@ day13: Roman to Integer, Palindrome Number, Happy Number, Power of Two, Sqrt(x),
 day14: Count Odd Numbers in an Interval Range, Rectangle Overlap, Add Digits Maximum Product of Three Numbers, Excel Sheet Column Number
 
 day16: Binary Search, Search Insert Position, First Bad Version, Valid Perfect Square, Kth Missing Positive Number, Kth Largest Element in a Array
+
+day17: Design HashMap, Ransom Note, Contains Duplicate, Contains Duplicate II, Jewels and Stones, Unique Number of Occurrences
